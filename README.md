@@ -1,4 +1,4 @@
-# datamining_project
+# datamining_project (Mobile App Store 7200)
 
 ---
 
@@ -13,6 +13,8 @@
 ## preprocessing
 
 - 데이터전처리와 EDA 
+
+- [원본데이터](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps)
 
 ---
 
