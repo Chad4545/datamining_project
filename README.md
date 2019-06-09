@@ -18,7 +18,7 @@
 
 ---
 
-## experimnet
+## experiment
 
 - Regression과 Classification 동시 진행
 
